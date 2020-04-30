@@ -1,2 +1,2 @@
 # game1
-game.github.io
+https://blog.litefen.com/game1/
